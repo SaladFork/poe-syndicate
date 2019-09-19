@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/poe-syndicate/static/css/main.2cce8147.chunk.css",
-    "main.js": "/poe-syndicate/static/js/main.e83af947.chunk.js",
-    "main.js.map": "/poe-syndicate/static/js/main.e83af947.chunk.js.map",
+    "main.css": "/poe-syndicate/static/css/main.b8cba3b9.chunk.css",
+    "main.js": "/poe-syndicate/static/js/main.25981910.chunk.js",
+    "main.js.map": "/poe-syndicate/static/js/main.25981910.chunk.js.map",
     "runtime~main.js": "/poe-syndicate/static/js/runtime~main.0f35dc3d.js",
     "runtime~main.js.map": "/poe-syndicate/static/js/runtime~main.0f35dc3d.js.map",
-    "static/js/2.5472b71c.chunk.js": "/poe-syndicate/static/js/2.5472b71c.chunk.js",
-    "static/js/2.5472b71c.chunk.js.map": "/poe-syndicate/static/js/2.5472b71c.chunk.js.map",
+    "static/css/2.764ccc25.chunk.css": "/poe-syndicate/static/css/2.764ccc25.chunk.css",
+    "static/js/2.717b95b8.chunk.js": "/poe-syndicate/static/js/2.717b95b8.chunk.js",
+    "static/js/2.717b95b8.chunk.js.map": "/poe-syndicate/static/js/2.717b95b8.chunk.js.map",
     "index.html": "/poe-syndicate/index.html",
-    "precache-manifest.7eb5ba849435690b9e73f1e74293f5f4.js": "/poe-syndicate/precache-manifest.7eb5ba849435690b9e73f1e74293f5f4.js",
+    "precache-manifest.a81ae58d6dfb58a28203daf097b8c5de.js": "/poe-syndicate/precache-manifest.a81ae58d6dfb58a28203daf097b8c5de.js",
     "service-worker.js": "/poe-syndicate/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/poe-syndicate/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/poe-syndicate/static/media/logo.5d5d9eef.svg"
+    "static/css/2.764ccc25.chunk.css.map": "/poe-syndicate/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.b8cba3b9.chunk.css.map": "/poe-syndicate/static/css/main.b8cba3b9.chunk.css.map"
   }
 }
