@@ -1,0 +1,50 @@
+.members {
+  display: flex;
+  flex-wrap: wrap;
+
+  max-width: 840px;
+  margin: 0 auto;
+}
+
+.member {
+  width: 200px;
+  margin-top: 10px;
+  margin-left: 10px;
+  background: #a59250;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.memberName {
+  font-size: 24px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  background: #fcfcde;
+  background: radial-gradient(circle, #fcfcde 0%, #fcfcde 20%, #a59250 70%);
+  max-height: 60px;
+}
+
+.reward {
+  background: #fcfcde;
+  background: radial-gradient(circle, #fcfcde 0%, #fcfcde 70%, #a59250 100%);
+
+  display: flex;
+  cursor: default;
+
+  padding: 4px 0;
+
+  margin-top: 2px;
+}
+
+.divisionLetter {
+  width: 30px;
+  text-align: center;
+  font-weight: bold;
+}

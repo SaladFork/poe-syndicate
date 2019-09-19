@@ -15,6 +15,9 @@ module.exports = {
     ecmaVersion: 7,
     sourceType: 'module'
   },
+  env: {
+    node: true
+  },
   parser: 'babel-eslint',
   rules: {
     // eslint
